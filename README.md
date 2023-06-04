@@ -65,9 +65,9 @@ Here is a detailed list of all LLMs, and some of them are marked as commercial-r
 
 ---
 
-## Google Sheet embedding
+## Google Sheet Link
 
-<div style="text-align: center"><iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTKEuHkTI5jkTgjbYJdoiW2NcNw4dt0xhXb9JXNaQxU5umjpwVH33JUSuIm57VEAEbPGUplRUQMgYDV/pubhtml?widget=true&amp;headers=false"></iframe></div>
+https://docs.google.com/spreadsheets/d/1B8j0VPKv-nsH7-SmgQ8_zJDEDMFliWl0RBUXWd0Wp9Q/edit?usp=sharing
 
 ---
 ## What do the licences mean?
