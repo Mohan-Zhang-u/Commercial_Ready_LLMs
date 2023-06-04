@@ -64,6 +64,12 @@ Here is a detailed list of all LLMs, and some of them are marked as commercial-r
 | Megatron             | General        |           | MIT                                     |                |                                                                                                                                                        | 0                                     |                |                                                                                                          |                                                                                                                              |              |                                                            | Meta                                     |                 | 2020-04-04   |
 
 ---
+
+## Google Sheet Link
+
+https://docs.google.com/spreadsheets/d/1B8j0VPKv-nsH7-SmgQ8_zJDEDMFliWl0RBUXWd0Wp9Q/edit?usp=sharing
+
+---
 ## What do the licences mean?
 
 - [Apache 2.0](https://en.wikipedia.org/wiki/Apache_License): Allows users to use the software for any purpose, to distribute it, to modify it, and to distribute modified versions of the software under the terms of the license, without concern for royalties.
